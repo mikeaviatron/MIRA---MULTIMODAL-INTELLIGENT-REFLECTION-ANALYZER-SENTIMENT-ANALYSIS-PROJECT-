@@ -162,7 +162,7 @@ python main.py
 ## 👨‍💻 Authors / Contributors
 
 * **Mukund Nikhil**
-  Final Year Project — Multimodal AI Emotion & Sentiment Analyzer
+   Multimodal AI Emotion & Sentiment Analyzer
 
 ---
 
