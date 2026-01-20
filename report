@@ -1,0 +1,118 @@
+Project MIRA – Mukund’s Intelligent Reflection Analyzer
+Abstract
+
+Project MIRA is an innovative system designed to analyze a person’s speaking performance through video recordings. By combining audio analysis, video analysis, speech sentiment, and facial emotion detection, the system provides detailed insights into pitch, tempo, eye contact, sentiment, and emotions. The application generates a comprehensive feedback report with graphs, trend analysis, and suggestions, making it a valuable tool for personal development, training, and presentation improvement.
+
+1. Project Overview
+
+Project MIRA is an interactive application built using Python and Streamlit. It processes a user’s speaking video to provide detailed insights into their speech and behavioral patterns. The system integrates AI-powered analysis, including voice metrics, facial landmarks, sentiment, and emotion detection, to generate a performance report.
+
+2. Objectives
+
+Analyze speech characteristics: pitch and tempo.
+
+Evaluate eye contact during the video.
+
+Determine speech sentiment and facial emotion.
+
+Generate detailed feedback combining all metrics.
+
+Provide a downloadable report summarizing the performance.
+
+3. Technology Stack
+Component	Tool/Library
+Frontend	Streamlit
+Audio Analysis	librosa, numpy
+Video & Face Analysis	OpenCV, MediaPipe
+Speech Recognition	SpeechRecognition (Python)
+Sentiment Analysis	TextBlob / Custom model
+Emotion Detection	MediaPipe / Custom face emotion detection
+PDF Report	FPDF (Unicode support with DejaVu fonts)
+Plotting	Matplotlib
+4. Functional Workflow
+
+Video Upload: Users upload an MP4 video through the interface.
+
+Audio Extraction: Extracts audio from video using ffmpeg.
+
+Audio Analysis:
+
+Pitch evaluation with analyze_audio().
+
+Tempo analysis for speaking speed.
+
+Video Analysis:
+
+Eye contact measured using MediaPipe Face Mesh.
+
+Facial emotion detection using detect_emotion().
+
+Speech Analysis:
+
+Speech-to-text conversion using speech_to_text().
+
+Sentiment analysis via analyze_sentiment().
+
+Feedback Generation: A comprehensive report generated using full_summary().
+
+Data Visualization:
+
+Metrics shown as cards.
+
+Trend charts plotted with Matplotlib.
+
+Sentiment & emotion badges for clarity.
+
+Report Generation:
+
+Downloadable PDF generated with metrics, charts, and detailed feedback.
+
+Unicode font (DejaVuSans) ensures emoji support.
+
+5. Features of the System
+
+User-friendly Interface: Easy upload and dashboard.
+
+Real-time Analysis: Fast processing and visualization.
+
+Graphical Insights: Trend charts for pitch, tempo, and eye contact.
+
+Detailed Feedback: Constructive advice and performance tips.
+
+PDF Report: Ready for download and sharing.
+
+6. Challenges & Solutions
+Challenge	Solution
+Eye contact frames mismatch with pitch/tempo arrays	Arrays synchronized to minimum length
+Emojis not supported in PDF	Used Unicode font DejaVuSans
+Dashboard styling	Custom CSS for gradient cards and background
+Plotting errors for arrays of different lengths	Cropped arrays to equal length
+7. Future Scope
+
+Integration with real-time video feeds for live feedback.
+
+Expansion to multi-language speech analysis.
+
+Incorporation of AI-based training suggestions for public speaking improvement.
+
+Integration with corporate training or educational platforms.
+
+Mobile or web app deployment for remote usage.
+
+8. Screenshots (Optional)
+
+Include screenshots of:
+
+Dashboard with metrics cards
+
+Trend charts
+
+Sentiment & emotion badges
+
+Feedback card
+
+Generated PDF report
+
+9. Conclusion
+
+Project MIRA is a comprehensive tool for analyzing speech and behavior. It leverages AI and multimedia processing to provide actionable insights into pitch, tempo, eye contact, sentiment, and emotions. The system is valuable for personal development, training, education, and corporate communication, with potential for future expansion and real-time analysis.

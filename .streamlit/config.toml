@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4B7BEC"           # Button color
+backgroundColor = "#F8FAFC"        # Light background
+secondaryBackgroundColor = "#FFFFFF"  # Cards background
+textColor = "#333333"             # Text color
+font = "sans serif"
