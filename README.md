@@ -4,11 +4,7 @@
 MIRA (Multimodal Intelligent Reflection Analyzer) is a multimodal AI-based system designed to analyze human emotions and sentiment using multiple input modalities such as **text**, **speech**, **facial expressions**, and **voice characteristics**.  
 This project aims to provide a smarter and more accurate emotional reflection system by combining insights from different sources, making sentiment/emotion analysis more reliable than single-modal systems.
 
----
 
----
-
----
 
 ## 📸 Project Screenshots
 
