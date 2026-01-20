@@ -8,23 +8,25 @@ This project aims to provide a smarter and more accurate emotional reflection sy
 
 ---
 
+---
+
 ## 📸 Project Screenshots
 
-![Screenshot 1](assets/images/s1.png)
-![Screenshot 2](assets/images/s2.png)
-![Screenshot 3](assets/images/s3.png)
-![Screenshot 4](assets/images/s4.png)
-![Screenshot 5](assets/images/s5.png)
-![Screenshot 6](assets/images/s6.png)
-![Screenshot 7](assets/images/s7.png)
-![Screenshot 8](assets/images/s8.png)
-![Screenshot 9](assets/images/s9.png)
-![Screenshot 10](assets/images/s10.png)
-![Screenshot 11](assets/images/s11.png)
-![Screenshot 12](assets/images/s12.png)
-![Screenshot 13](assets/images/s13.png)
-![Screenshot 14](assets/images/s14.png)
-![Screenshot 15](assets/images/s15.png)
+<img src="assets/images/s1.png" width="700" />
+<img src="assets/images/s2.png" width="700" />
+<img src="assets/images/s3.png" width="700" />
+<img src="assets/images/s4.png" width="700" />
+<img src="assets/images/s5.png" width="700" />
+<img src="assets/images/s6.png" width="700" />
+<img src="assets/images/s7.png" width="700" />
+<img src="assets/images/s8.png" width="700" />
+<img src="assets/images/s9.png" width="700" />
+<img src="assets/images/s10.png" width="700" />
+<img src="assets/images/s11.png" width="700" />
+<img src="assets/images/s12.png" width="700" />
+<img src="assets/images/s13.png" width="700" />
+<img src="assets/images/s14.png" width="700" />
+<img src="assets/images/s15.png" width="700" />
 
 
 ## 🚀 Key Features
