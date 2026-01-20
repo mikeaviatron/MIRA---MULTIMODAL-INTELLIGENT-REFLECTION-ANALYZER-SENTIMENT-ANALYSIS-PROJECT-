@@ -6,6 +6,27 @@ This project aims to provide a smarter and more accurate emotional reflection sy
 
 ---
 
+---
+
+## 📸 Project Screenshots
+
+![Screenshot 1](assets/images/s1.png)
+![Screenshot 2](assets/images/s2.png)
+![Screenshot 3](assets/images/s3.png)
+![Screenshot 4](assets/images/s4.png)
+![Screenshot 5](assets/images/s5.png)
+![Screenshot 6](assets/images/s6.png)
+![Screenshot 7](assets/images/s7.png)
+![Screenshot 8](assets/images/s8.png)
+![Screenshot 9](assets/images/s9.png)
+![Screenshot 10](assets/images/s10.png)
+![Screenshot 11](assets/images/s11.png)
+![Screenshot 12](assets/images/s12.png)
+![Screenshot 13](assets/images/s13.png)
+![Screenshot 14](assets/images/s14.png)
+![Screenshot 15](assets/images/s15.png)
+
+
 ## 🚀 Key Features
 
 ✅ **Text Sentiment Analysis**
@@ -152,24 +173,4 @@ python main.py
 This project is created for academic and educational purposes.
 
 ---
-
-## 📸 Project Screenshots
-
-![Screenshot](assets/images/Screenshot%202025-08-25%20105258.png)
-
-![Screenshot](assets/images/Screenshot%202025-09-17%20004652.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20004720.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20004749.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20004847.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20004902.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20004923.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20004946.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20005007.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20005033.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20005058.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20005116.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20005136.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20005156.png)
-![Screenshot](assets/images/Screenshot%202025-09-17%20010022.png)
-
 
